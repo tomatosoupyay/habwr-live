@@ -1,6 +1,6 @@
 # HABWR Live Data Website
 
-## Status: ONLINE
+## Status: DECEASED
 
 ---
 
@@ -8,13 +8,13 @@
 
 ### Site 1
 
-Electrical Output: **2314.0 kSW**  
-Thermal Power: **88.0%**  
-Reactor Pressure: **1212.0 kPa**  
-Radiation in Containment: **0.019999999552965 RU**  
-Radiation in Environment: **0.0 RU**
+Electrical Output: **0.0 kSW**  
+Thermal Power: **230.0%**  
+Reactor Pressure: **ERR kPa**  
+Radiation in Containment: **72 RU**  
+Radiation in Environment: **62.0 RU**
 
-Reactor Uptime: **0d 0h 3m**
+Reactor Uptime: **0d 0h 0m**
 
 ---
 
@@ -25,4 +25,4 @@ RU is the standard Stormworks radiation unit.
 
 ---
 
-*Last updated: 2026-02-28 00:39 PST*
+*Last updated: 2026-02-28 00:52 PST*
