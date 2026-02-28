@@ -2,17 +2,15 @@
 
 HABWR is an abbreviation for **Hoshizora Advanced Boiling Water Reactor**, one of the few functioning boiling water reactors in Stormworks.
 
-Boiling water reactors deliver higher efficiency than the traditional Stormworks PWR.
-
 ---
 
 ## Live Data
 
 ### Site 1
 
-Electrical Output: **2,500 KSW**  
+Electrical Output: **2500 kSW**  
 Thermal Power: **100%**  
-Reactor Pressure: **1,215 kPa**  
+Reactor Pressure: **1215 kPa**  
 Radiation in Containment: **0.01 RU**  
 Radiation in Environment: **0 RU**
 
@@ -23,4 +21,4 @@ RU is the standard Stormworks radiation unit.
 
 ---
 
-*Last updated: 2026-02-27 23:24 PDT*
+*Last updated: 2026-02-28 08:04 UTC*
