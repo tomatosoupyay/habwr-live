@@ -10,7 +10,7 @@
 ### Site 1
 
 Electrical Output: **0.0 kSW**  
-Thermal Power: **84.0%**  
+Thermal Power: **85.0%**  
 Reactor Pressure: **220.0 kPa**  
 Radiation in Containment: **0.0 RU**  
 Radiation in Environment: **0.0 RU**
