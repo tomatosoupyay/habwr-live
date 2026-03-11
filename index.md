@@ -11,7 +11,7 @@
 
 Electrical Output: **0.0 kSW**  
 Thermal Power: **99.0%**  
-Reactor Pressure: **305.0 kPa**  
+Reactor Pressure: **319.0 kPa**  
 Radiation in Containment: **0.0 RU**  
 Radiation in Environment: **0.0 RU**
 
