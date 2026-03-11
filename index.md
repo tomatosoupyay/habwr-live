@@ -11,7 +11,7 @@
 
 Electrical Output: **0.0 kSW**  
 Thermal Power: **99.0%**  
-Reactor Pressure: **319.0 kPa**  
+Reactor Pressure: **327.0 kPa**  
 Radiation in Containment: **0.0 RU**  
 Radiation in Environment: **0.0 RU**
 
@@ -26,4 +26,4 @@ RU is the standard Stormworks radiation unit.
 
 ---
 
-*Last updated: 2026-03-10 19:46 PDT*
+*Last updated: 2026-03-10 19:47 PDT*
