@@ -9,13 +9,13 @@
 
 ### Site 1
 
-Electrical Output: **2385.0 kSW**  
-Thermal Power: **73.0%**  
-Reactor Pressure: **1103.0 kPa**  
+Electrical Output: **393.0 kSW**  
+Thermal Power: **90.0%**  
+Reactor Pressure: **1847.0 kPa**  
 Radiation in Containment: **0.0 RU**  
 Radiation in Environment: **0.0 RU**
 
-Reactor Uptime: **120d 21h 30m**
+Reactor Uptime: **127d 18h 5m**
 
 ---
 
@@ -26,4 +26,4 @@ RU is the standard Stormworks radiation unit.
 
 ---
 
-*Last updated: 2026-06-28 23:06 PDT*
+*Last updated: 2026-07-05 19:41 PDT*
